@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gad</h1>
-<h3 align="center">A passionate software developer from Egypt</h3>
+<h3 align="center">Software Engineer at Link Development || .NET || Power Platform || Microsoft Dynamics 365 CE || Angular
+</h3>
 
 
 <h3 align="left">Connect with me:</h3>
